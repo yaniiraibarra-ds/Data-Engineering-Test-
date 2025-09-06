@@ -1,4 +1,4 @@
-# Data Engineering Test - Solvex 2023
+# Data Engineering Test - Solvex
 
 Repositorio con ejercicios de prueba para **Data Engineering**, incluyendo:
 
