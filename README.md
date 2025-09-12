@@ -1,4 +1,4 @@
-# Data Engineering Test - Solvex
+# Data Engineering Test
 
 Repositorio con ejercicios de prueba para **Data Engineering**, incluyendo:
 
